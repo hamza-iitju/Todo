@@ -9,6 +9,6 @@ Here we can create, update and delete Todos, mark as completed todos.
 2. Clone source code.
 3. Run the following command.
 
-<code> php artisan migrate </code>
-<code> php artisan db:seed </code>
+<code> php artisan migrate </code><br>
+<code> php artisan db:seed </code><br>
 <code> php artisan serve </code>
